@@ -48,11 +48,14 @@ https://devasrik.github.io/Wellness-Programs/
 ## Running Locally
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/DevasriK/Wellness-Programs.git
+```bash
+git clone https://github.com/DevasriK/Wellness-Programs.git
 
-2. Open the project folder:
-   ```bash
-   cd Wellness-Programs
-   
-3. Open index.html in your browser.
+Open the project folder:
+
+cd Wellness-Programs
+
+Open index.html in your browser.
+
+
+If you want, I can also format the **entire README** into one clean copy-paste block for you too.
