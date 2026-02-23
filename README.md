@@ -52,7 +52,7 @@ https://devasrik.github.io/Wellness-Programs/
    git clone https://github.com/DevasriK/Wellness-Programs.git
 
 2. Open the project folder:
-
-cd Wellness-Programs
-
+   ```bash
+   cd Wellness-Programs
+   
 3. Open index.html in your browser.
