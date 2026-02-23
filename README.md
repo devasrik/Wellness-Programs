@@ -38,24 +38,14 @@ This project showcases my ability to:
 
 ---
 
-## Live Preview
-
-You can view the live website here:  
-https://devasrik.github.io/Wellness-Programs/
-
----
-
 ## Running Locally
 
 1. Clone the repository:
-```bash
-git clone https://github.com/DevasriK/Wellness-Programs.git
+   ```bash
+   git clone https://github.com/DevasriK/Wellness-Programs.git
 
-Open the project folder:
+3. Open the project folder:
+   ```bash
+   cd Wellness-Programs
 
-cd Wellness-Programs
-
-Open index.html in your browser.
-
-
-If you want, I can also format the **entire README** into one clean copy-paste block for you too.
+3. Open index.html in your browser.
